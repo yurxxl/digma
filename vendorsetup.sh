@@ -1,0 +1,2 @@
+add_lunch_combo omni_CITI-eng
+add_lunch_combo omni_CITI-userdebug
